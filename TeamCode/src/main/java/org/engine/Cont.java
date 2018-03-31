@@ -21,7 +21,7 @@ public class Cont {
     }
 
     public Object get(types type, String name){
-
+//comment
         return hashtable.get(type+","+name);
     }
 
